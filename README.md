@@ -1,1 +1,1 @@
-# dev-skills-lab-part-1
+# dev-skills-lab
